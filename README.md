@@ -29,7 +29,9 @@ The eggs only supports ngrok endpoints at the time <br />
 
 ### [Minecraft](https://github.com/Bertogim/pterodactyl-ngrok-eggs/tree/main/Minecraft): 
 [Vanilla](https://github.com/Bertogim/pterodactyl-ngrok-eggs/blob/main/Minecraft/egg-vanilla-ngrok.json) <br />
-[Paper](https://github.com/Bertogim/pterodactyl-ngrok-eggs/blob/main/Minecraft/egg-paper-ngrok.json)
+[Paper](https://github.com/Bertogim/pterodactyl-ngrok-eggs/blob/main/Minecraft/egg-paper-ngrok.json)  <br />
+[Velocity arm64](https://github.com/asphyxiamywife/pterodactyl-ngrok-eggs/blob/main/Minecraft/egg-velcity-ngrok-arm64.json)  <br />
+[Velocity amd64](https://github.com/asphyxiamywife/pterodactyl-ngrok-eggs/blob/main/Minecraft/egg-velocity-ngrok-amd64.json )
 
 ### [Beammmp](https://github.com/Bertogim/pterodactyl-ngrok-eggs/blob/main/Beammp/egg-beam-mp-ngrok.json)
 
